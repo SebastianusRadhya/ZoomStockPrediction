@@ -8,14 +8,14 @@ First of all, make sure you have installed all of the necessary libraries. I wil
 To run the program:
 1. Run the program's main file "GUI.py". This will open the program's main page which is the Prediction Page.
 
-<img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss19.png?raw=true" width="600">
+   <img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss19.png?raw=true" width="600">
 
 2. The program will have two main pages namely the Prediction Page and the Dataset Page.
 
 Prediction Page:
 1. To make a prediction, fill the three text box with the stock's opening price in the last three days.
 
-![PredictionPageBox](https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss1.png?raw=true)
+<img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss1.png?raw=true" width="600">
 
 2. After all three text boxes are filled, click the Predict button which will generate the prediction in the text box below it.
 3. To clear all text boxes, click on the Reset button.
@@ -23,10 +23,10 @@ Prediction Page:
 Dataset Page:
 1. To navigate into the Dataset Page, click on the Dataset navigation button at the top of the program.
 
-![DatasetPage](https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss20.png?raw=true)
+<img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss20.png?raw=true" width="600">
 
 2. To plot a histogram for a feature, select a feature from the "Select Columns" dropdown menu and click the Plot Histogram button which will open up a new window with the histogram of the selected feature.
 
-![DatasetPageHistogram](https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss10.png?raw=true)
+<img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss10.png?raw=true" width="600">
 
-![HistogramWindow](https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss21.png?raw=true)
+<img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss21.png?raw=true" width="400">
