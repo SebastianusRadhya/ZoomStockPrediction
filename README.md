@@ -27,4 +27,6 @@ Dataset Page:
 
 2. To plot a histogram for a feature, select a feature from the "Select Columns" dropdown menu and click the Plot Histogram button
 
+![alt text](https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss10.png?raw=true)
 
+![alt text](https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss21.png?raw=true)
