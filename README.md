@@ -33,3 +33,6 @@ Dataset Page:
 
 3. To see the dataset's feature correlation, click on the Show Dataset Correlations button which will open up a new window with a Heatmap of the dataset's feature correlation.
 
+   <img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss12.png?raw=true" width="600">
+
+   <img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss22.png?raw=true" width="400">
