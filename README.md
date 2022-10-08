@@ -23,7 +23,8 @@ Prediction Page:
 Dataset Page:
 1. To navigate into the Dataset Page, click on the Dataset navigation button at the top of the program.
 
-![alt text](https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss19.png?raw=true)
+![alt text](https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss20.png?raw=true)
+
+2. To plot a histogram for a feature, select a feature from the "Select Columns" dropdown menu and click the Plot Histogram button
 
 
-2. 
