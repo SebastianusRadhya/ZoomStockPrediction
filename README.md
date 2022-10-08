@@ -21,18 +21,26 @@ Prediction Page:
 3. To clear all text boxes, click on the Reset button.
 
 Dataset Page:
-1. To navigate into the Dataset Page, click on the Dataset navigation button at the top of the program.
+To navigate into the Dataset Page, click on the Dataset navigation button at the top of the program.
 
    <img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss20.png?raw=true" width="600">
 
-2. To plot a histogram for a feature, select a feature from the "Select Columns" dropdown menu and click the Plot Histogram button which will open up a new window with the histogram of the selected feature.
+To plot a histogram for a feature:
+Select a feature from the "Select Columns" dropdown menu and click the Plot Histogram button which will open up a new window with the histogram of the selected feature.
 
    <img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss10.png?raw=true" width="600">
 
    <img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss21.png?raw=true" width="400">
 
-3. To see the dataset's feature correlation, click on the Show Dataset Correlations button which will open up a new window with a Heatmap of the dataset's feature correlation.
+To see the dataset's feature correlation: 
+Click on the Show Dataset Correlations button which will open up a new window with a Heatmap of the dataset's feature correlation.
 
    <img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss12.png?raw=true" width="600">
 
    <img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss22.png?raw=true" width="400">
+
+To evaluate this program's algorithm:
+1. Click on the Train Test Dataset button. This will open up the Train Test Operations window where you can evaluate the program's prediction algorithm with the option to manually input the train test split's test size and random state.
+
+2. To plot a scatter plot of the prediction values vs the actual values, click on the Plot Prediction vs Actual button which will open two windows with scatter plots of the prediction values vs the actual values in the train set and the test set.
+
