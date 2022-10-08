@@ -30,3 +30,6 @@ Dataset Page:
    <img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss10.png?raw=true" width="600">
 
    <img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss21.png?raw=true" width="400">
+
+3. To see the dataset's feature correlation, click on the Show Dataset Correlations button which will open up a new window with a Heatmap of the dataset's feature correlation.
+
