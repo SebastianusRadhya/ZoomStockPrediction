@@ -7,15 +7,23 @@ First of all, make sure you have installed all of the necessary libraries. I wil
 
 To run the program:
 1. Run the program's main file "GUI.py". This will open the program's main page which is the Prediction Page.
+
 ![alt text](https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss19.png?raw=true)
+
 2. The program will have two main pages namely the Prediction Page and the Dataset Page.
 
 Prediction Page:
 1. To make a prediction, fill the three text box with the stock's opening price in the last three days.
+
 ![alt text](https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss1.png?raw=true)
+
 2. After all three text boxes are filled, click the Predict button which will generate the prediction in the text box below it.
 3. To clear all text boxes, click on the Reset button.
 
 Dataset Page:
 1. To navigate into the Dataset Page, click on the Dataset navigation button at the top of the program.
+
+![alt text](https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss19.png?raw=true)
+
+
 2. 
