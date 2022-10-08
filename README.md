@@ -8,7 +8,7 @@ First of all, make sure you have installed all of the necessary libraries. I wil
 To run the program:
 1. Run the program's main file "GUI.py". This will open the program's main page which is the Prediction Page.
 
-![PredictionPage](https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss19.png?raw=true)
+<img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss19.png?raw=true" width="600">
 
 2. The program will have two main pages namely the Prediction Page and the Dataset Page.
 
