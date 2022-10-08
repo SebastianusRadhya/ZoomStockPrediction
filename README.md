@@ -43,9 +43,9 @@ To evaluate this program's algorithm:
 1. Click on the Train Test Dataset button. This will open up the Train Test Operations window where you can evaluate the program's prediction algorithm with the option to manually input the train test split's test size and random state.
 
    <img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss13.png?raw=true" width="600"><br>
-   <img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss14.png?raw=true" width="360">
-   <img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss15.png?raw=true" width="360">
+   <img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss14.png?raw=true" width="200">
+   <img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss15.png?raw=true" width="200">
    
 2. To plot a scatter plot of the prediction values vs the actual values, click on the Plot Prediction vs Actual button which will open two windows with scatter plots of the prediction values vs the actual values in the train set and the test set.
 
-   <img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss18.png?raw=true" width="360">
+   <img src="https://github.com/SebastianusRadhya/ZoomStockPrediction/blob/main/ss18.png?raw=true" width="200">
