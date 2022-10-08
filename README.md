@@ -1,3 +1,4 @@
-# ZoomPrediction
-## Zoom Prediction App using Machine Learning in Python
+# Zoom Stock Prediction
+## Zoom Stock Prediction App using Machine Learning in Python
+
 
